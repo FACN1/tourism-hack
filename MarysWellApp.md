@@ -10,6 +10,7 @@ The vision would be to have a square which is a gathering place similar to other
 Reasons to do it:
 - Make Nazareth a cultural (food/goods/lodgings/entertainment) destination, in addition to a religious destination
 - Boost the online presence for Nazareth with a cohesive and curated approach (Brand)
+- Cost effective (split between multiple businesses)
 
 What will it look like:
 - Show business hours
